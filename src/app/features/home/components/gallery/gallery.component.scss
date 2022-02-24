@@ -1,0 +1,22 @@
+.discs{
+    padding:50px;
+    text-align:center;
+    display:flex;
+    align-items:center;
+    justify-content: space-around;
+    text-align: center;
+    flex-wrap: wrap;
+
+
+    div{
+        margin: 25px 25px;
+        h4{
+            font-size:20px;
+            margin-bottom:10px;
+        }
+        img{
+            max-width:300px;
+            border-radius:25px;
+        }
+    }
+}

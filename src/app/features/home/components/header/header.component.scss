@@ -1,0 +1,21 @@
+#inicio{
+    background: #d1d1d1;
+    text-align: center;
+    padding: 20px;
+    app-image{
+        img{
+            margin: 20px auto;
+        }
+    }
+    .navbar{
+        margin: 30px auto 10px;
+    }
+    app-navbar{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+    
+        
+    }
+}
